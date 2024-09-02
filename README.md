@@ -10,7 +10,6 @@ This project involves predicting hotel booking cancellations using a dataset con
 - [Data Cleaning and Preprocessing](#data-cleaning-and-preprocessing)
 - [Data Preparation](#data-preparation)
 - [Model Building and Training](#model-building-and-training)
-- [Results](#results)
 - [Conclusion](#conclusion)
 
 ## Data Exploration
@@ -35,6 +34,7 @@ A neural network model is built and trained using TensorFlow/Keras. The training
 
 ### Accuracy Plot
 
+![Model Training](images/training.png)
 ![Model Accuracy](images/acc.png)
 
 ## Conclusion
