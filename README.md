@@ -17,15 +17,13 @@ This project involves predicting hotel booking cancellations using a dataset con
 
 The dataset is loaded, and basic information is displayed. Missing values are checked, and the general structure of the data is understood.
 
-![Sample Data](![image](https://github.com/user-attachments/assets/5f5505d7-44aa-4876-9476-b1d264509ee7)
-)
+![Sample Data](path/to/sample_data_plot.png)
 
 ## Data Cleaning and Preprocessing
 
 Data cleaning involves handling missing values, encoding categorical variables, and feature engineering. Outliers are detected and addressed.
 
 ![Missing Values](path/to/missing_values_plot.png)
-![Outliers](path/to/outliers_plot.png)
 
 ## Data Preparation
 
