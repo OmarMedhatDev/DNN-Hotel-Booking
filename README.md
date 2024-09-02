@@ -17,13 +17,13 @@ This project involves predicting hotel booking cancellations using a dataset con
 
 The dataset is loaded, and basic information is displayed. Missing values are checked, and the general structure of the data is understood.
 
-![Sample Data](path/to/sample_data_plot.png)
+![Sample Data](images/acc.png)
 
 ## Data Cleaning and Preprocessing
 
 Data cleaning involves handling missing values, encoding categorical variables, and feature engineering. Outliers are detected and addressed.
 
-![Missing Values](path/to/missing_values_plot.png)
+![Missing Values](images/missing.png)
 
 ## Data Preparation
 
@@ -35,7 +35,7 @@ A neural network model is built and trained using TensorFlow/Keras. The training
 
 ### Accuracy Plot
 
-![Model Accuracy](path/to/model_accuracy_plot.png)
+![Model Accuracy](images/acc.png)
 
 ## Conclusion
 
