@@ -24,6 +24,7 @@ The dataset is loaded, and basic information is displayed. Missing values are ch
 Data cleaning involves handling missing values, encoding categorical variables, and feature engineering. Outliers are detected and addressed.
 
 ![Missing Values](images/cleaning.png)
+![Missing Values](images/encoding.png)
 
 ## Data Preparation
 
