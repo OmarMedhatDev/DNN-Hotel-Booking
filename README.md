@@ -35,6 +35,7 @@ A neural network model is built and trained using TensorFlow/Keras. The training
 
 ### Accuracy Plot
 
+![Model Training](images/training.png)
 ![Model Accuracy](images/acc.png)
 
 ## Conclusion
