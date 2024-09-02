@@ -17,6 +17,7 @@ This project involves predicting hotel booking cancellations using a dataset con
 The dataset is loaded, and basic information is displayed. Missing values are checked, and the general structure of the data is understood.
 
 ![Sample Data](images/sample.png)
+![Missing Values](images/missing.png)
 
 ## Data Cleaning and Preprocessing
 
