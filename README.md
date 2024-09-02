@@ -10,7 +10,6 @@ This project involves predicting hotel booking cancellations using a dataset con
 - [Data Cleaning and Preprocessing](#data-cleaning-and-preprocessing)
 - [Data Preparation](#data-preparation)
 - [Model Building and Training](#model-building-and-training)
-- [Results](#results)
 - [Conclusion](#conclusion)
 
 ## Data Exploration
